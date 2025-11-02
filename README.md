@@ -4,7 +4,7 @@ A responsive web application for browsing and managing artwork collections from 
 
 ## 🚀 Live Demo
 
-[Deployed Application URL] - 
+[Deployed Application URL] - https://prime-react-table-app.netlify.app/
 
 ## 📋 Features
 
@@ -22,13 +22,13 @@ A responsive web application for browsing and managing artwork collections from 
 - **UI Components**: PrimeReact + PrimeFlex
 - **API**: Chicago Art Institute API
 - **Styling**: CSS3 with responsive design
-- **Deployment**: Netlify/Cloudflare Pages
+- **Deployment**: Netlify
 
 ## 📦 Installation
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/Accidic001/prime-react-table-app
    cd artwork-gallery
    ```
 
@@ -106,10 +106,7 @@ const response = await fetchArtworks({
 2. Publish directory: `dist`
 3. Environment variables: None required
 
-### Cloudflare Pages
-1. Build command: `npm run build`
-2. Build output directory: `dist`
-3. Environment variables: Not required
+
 
 ## 📄 API Reference
 
